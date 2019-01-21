@@ -45,5 +45,6 @@
 Python的初学详细建议可以见我一个知乎answer：https://www.zhihu.com/question/281789365/answer/474788019 
 
 # 请喝咖啡
-https://github.com/luzhengli/my-python/blob/master/请喝咖啡.JPG
+![请我喝咖啡](https://i0.hdslb.com/bfs/album/85f6d83b8665892602e368536625971e761085ce.jpg)
+
 
