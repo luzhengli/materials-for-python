@@ -45,5 +45,5 @@
 Python的初学详细建议可以见我一个知乎answer：https://www.zhihu.com/question/281789365/answer/474788019 
 
 # 请喝咖啡
-![请我和咖啡]("D:\Li\图片\请喝咖啡.JPG")
+![请我和咖啡]("\Li\图片\请喝咖啡.JPG")
 
