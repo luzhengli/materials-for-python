@@ -7,12 +7,12 @@
 # 进阶
 * 《流畅的Python》：理想的Python进阶书籍，涵盖内容深入且全面，适合希望深入掌握Python朋友使用。
 
-# 爬虫
+# 网络爬虫
 * 《Python3网络爬虫开发实战》：崔庆才大大，北航硕士所著，强推给希望系统学习爬虫的朋友。电子版部分开源：https://germey.gitbooks.io/python3webspider/content/0-%E7%9B%AE%E5%BD%95.html
 
 # 数据分析
 
-# 机器学习（AI方向）
+# 机器学习
 * 推荐Github上一个印度少年的项目（https://github.com/GokuMohandas/practicalAI）， 系统记录了有关machine的学习。
 
 # Web后端
