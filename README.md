@@ -40,4 +40,6 @@
 提取码：s1kf 
 
 # 结语
-本仓库将持续更新，如果对你有帮助，欢迎Star。Python初学详细建议可以见我一个知乎answer：https://www.zhihu.com/question/281789365/answer/474788019 
+本仓库将持续更新，如果对你有帮助，欢迎Star。
+
+Python的初学详细建议可以见我一个知乎answer：https://www.zhihu.com/question/281789365/answer/474788019 
