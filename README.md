@@ -13,7 +13,7 @@
 # 数据分析
 
 # 机器学习
-* 推荐Github上一个印度少年的项目（https://github.com/GokuMohandas/practicalAI）， 系统记录了有关machine的学习。
+* 推荐Github上一个印度少年的项目（https://github.com/GokuMohandas/practicalAI） ，系统记录了有关machine的学习。
 
 # Web后端
 * 《Django⼊⻔与实践教程》是“Python之禅”的志军大大团队的一个翻译项目。旨在带领学习者快速入门。
